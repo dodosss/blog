@@ -24,6 +24,7 @@
 [码农周刊](https://weekly.manong.io/issues/) | 
 **## 其它** | 
 [learning-golang](https://github.com/developer-learning/learning-golang) | 
+[night-reading-go](https://github.com/developer-learning/night-reading-go) | 
 [Go 语言链接收藏](https://zhongfox.github.io/2017/11/20/go-links/#channel) | 
 [awesome-go](https://github.com/avelino/awesome-go) |
 [go_code](https://github.com/mnhkahn/go_code) | 
